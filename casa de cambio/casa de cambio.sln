@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casa de cambio", "casa de cambio\casa de cambio.csproj", "{BB269654-36F2-4D52-91E5-13D526042F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB269654-36F2-4D52-91E5-13D526042F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB269654-36F2-4D52-91E5-13D526042F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB269654-36F2-4D52-91E5-13D526042F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB269654-36F2-4D52-91E5-13D526042F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8604CC1F-B2AD-4219-85E2-04F788C1C73E}
+	EndGlobalSection
+EndGlobal

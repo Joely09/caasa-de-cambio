@@ -1,0 +1,13 @@
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.csprojAssemblyReference.cache
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.AssemblyInfoInputs.cache
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.AssemblyInfo.cs
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.csproj.CoreCompileInputs.cache
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.exe
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.deps.json
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.runtimeconfig.json
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.runtimeconfig.dev.json
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.dll
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\bin\Debug\netcoreapp3.1\casa de cambio.pdb
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.dll
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.pdb
+C:\Users\Joely\source\repos\casa de cambio\casa de cambio\obj\Debug\netcoreapp3.1\casa de cambio.genruntimeconfig.cache
